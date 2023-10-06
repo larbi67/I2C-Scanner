@@ -68,7 +68,7 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 ## Additional Resources
 
-For more details, please refer to the [full article here](INSERT_ARTICLE_LINK).
+For more details, please refer to the [full article : Understanding I2C Protocol, Addressing, and How to Build an I2C Scanner for ESP Boards](https://medium.com/@Larbi.ouiyzme/understanding-i2c-protocol-addressing-and-how-to-build-an-i2c-scanner-for-esp-boards-3f4d93af3b24).
 
 ## License
 
