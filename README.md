@@ -72,4 +72,4 @@ For more details, please refer to the [full article : Understanding I2C Protocol
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE.md` file for details.
+This project is licensed under the MIT License. See the [`LICENSE.md`](LICENSE.md) file for details.
